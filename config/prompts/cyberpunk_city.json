@@ -1,0 +1,29 @@
+{
+  "shot": {
+    "composition": "Wide establishing shot, cinematic aspect ratio",
+    "camera_motion": "slow dolly forward",
+    "frame_rate": "24fps",
+    "film_grain": "light"
+  },
+  "subject": {
+    "description": "A lone figure in a trench coat",
+    "wardrobe": "dark trench coat with glowing neon accents"
+  },
+  "scene": {
+    "location": "futuristic city street",
+    "time_of_day": "night",
+    "environment": "rain-slicked streets reflecting neon lights, towering holographic advertisements"
+  },
+  "visual_details": {
+    "action": "walks slowly through the rain, steam rising from street vents"
+  },
+  "cinematography": {
+    "lighting": "dramatic neon lighting with strong color contrast",
+    "tone": "noir, atmospheric"
+  },
+  "audio": {
+    "ambient": "city sounds, rain, distant sirens",
+    "effects": "footsteps on wet pavement"
+  },
+  "color_palette": "deep blues, vibrant purples and pinks, stark contrasts"
+}

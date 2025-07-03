@@ -1,0 +1,28 @@
+{
+  "shot": {
+    "composition": "Wide landscape shot transitioning to close-up",
+    "camera_motion": "gentle drift",
+    "frame_rate": "30fps",
+    "film_grain": "none"
+  },
+  "subject": {
+    "description": "A peaceful waterfall in a lush forest"
+  },
+  "scene": {
+    "location": "pristine forest clearing",
+    "time_of_day": "golden hour",
+    "environment": "sunlight filtering through leaves, mist from the waterfall creating rainbows"
+  },
+  "visual_details": {
+    "action": "water cascades over moss-covered rocks, leaves gently sway in the breeze"
+  },
+  "cinematography": {
+    "lighting": "warm, natural sunlight with god rays",
+    "tone": "serene, tranquil"
+  },
+  "audio": {
+    "ambient": "rushing water, birds chirping, gentle wind through trees",
+    "effects": "water splashing on rocks"
+  },
+  "color_palette": "rich greens, warm golden light, crystal blue water"
+}

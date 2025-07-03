@@ -1,0 +1,25 @@
+{
+  "shot": {
+    "composition": "Medium shot",
+    "camera_motion": "static",
+    "frame_rate": "30fps",
+    "film_grain": "none"
+  },
+  "subject": {
+    "description": "A person",
+    "wardrobe": "casual clothing"
+  },
+  "scene": {
+    "location": "indoor studio",
+    "time_of_day": "daytime",
+    "environment": "neutral background"
+  },
+  "visual_details": {
+    "action": "standing and looking at camera"
+  },
+  "cinematography": {
+    "lighting": "soft studio lighting",
+    "tone": "neutral"
+  },
+  "color_palette": "natural colors"
+}
