@@ -1,0 +1,35 @@
+{
+  "shot": {
+    "composition": "Medium shot, vertical format, handheld camera",
+    "camera_motion": "slight natural shake",
+    "frame_rate": "30fps",
+    "film_grain": "none"
+  },
+  "subject": {
+    "description": "A towering, snow-white Yeti with shaggy fur and expressive blue eyes",
+    "wardrobe": "slightly oversized white T-shirt with the name 'Emily' in bold, blood-red letters across the chest"
+  },
+  "scene": {
+    "location": "lush forest clearing",
+    "time_of_day": "daytime",
+    "environment": "soft sunlight, haze from smoke lingering in the forest air"
+  },
+  "visual_details": {
+    "action": "Yeti exhales smoke, stares into camera, critiques Veo3's performance at fantasy/anime content",
+    "props": "loosely rolled joint"
+  },
+  "cinematography": {
+    "lighting": "natural sunlight with mild haze",
+    "tone": "comedic, irreverent, satirical"
+  },
+  "audio": {
+    "ambient": "forest quiet, faint birds, soft breeze",
+    "dialogue": {
+      "character": "Yeti",
+      "line": "Hey Google… Veo3 is very bad at fantasy and anime. Fix that with Veo4… soon.",
+      "subtitles": false
+    },
+    "effects": "exhale puff, faint cough"
+  },
+  "color_palette": "naturalistic forest tones, red shirt text providing strong contrast"
+}
